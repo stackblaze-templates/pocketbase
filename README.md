@@ -1,4 +1,4 @@
-# PocketBase [![Maintained by StackBlaze](https://img.shields.io/badge/maintained%20by-StackBlaze-blue)](https://stackblaze.com) [![Weekly Updates](https://img.shields.io/badge/updates-weekly-green)](https://github.com/stackblaze-templates/pocketbase/actions) [![License](https://img.shields.io/github/license/stackblaze-templates/pocketbase)](LICENSE) [![Deploy on StackBlaze](https://img.shields.io/badge/Deploy%20on-StackBlaze-orange)](https://stackblaze.com)
+# PocketBase [![Version](https://img.shields.io/badge/version-0.25-16161d)](https://github.com/stackblaze-templates/pocketbase) [![Maintained by StackBlaze](https://img.shields.io/badge/maintained%20by-StackBlaze-blue)](https://stackblaze.com) [![Weekly Updates](https://img.shields.io/badge/updates-weekly-green)](https://github.com/stackblaze-templates/pocketbase/actions) [![License](https://img.shields.io/github/license/stackblaze-templates/pocketbase)](LICENSE) [![Deploy on StackBlaze](https://img.shields.io/badge/Deploy%20on-StackBlaze-orange)](https://stackblaze.com)
 
 <p align="center"><img src="logo.png" alt="pocketbase" width="120"></p>
 
