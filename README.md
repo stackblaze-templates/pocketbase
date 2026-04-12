@@ -1,6 +1,6 @@
-<p align="center"><img src="logo.png" alt="pocketbase" width="120"></p>
-
 # PocketBase [![Maintained by StackBlaze](https://img.shields.io/badge/maintained%20by-StackBlaze-blue)](https://stackblaze.com) [![Weekly Updates](https://img.shields.io/badge/updates-weekly-green)](https://github.com/stackblaze-templates/pocketbase/actions) [![License](https://img.shields.io/github/license/stackblaze-templates/pocketbase)](LICENSE) [![Deploy on StackBlaze](https://img.shields.io/badge/Deploy%20on-StackBlaze-orange)](https://stackblaze.com)
+
+<p align="center"><img src="logo.png" alt="pocketbase" width="120"></p>
 
 Backend-as-a-service in a single file. Embedded SQLite, real-time subscriptions, authentication, and file storage — all in one Go binary.
 
