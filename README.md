@@ -81,7 +81,24 @@ flowchart LR
 
 ---
 
-### Maintained by [StackBlaze](https://stackblaze.com)
+### Security
+
+PocketBase prompts you to create an admin account on first launch — no default credentials are shipped.
+
+**Before going to production, review the following in the PocketBase Admin UI (`/_/`):**
+
+| Setting | Recommendation |
+|---|---|
+| Admin account | Set a strong, unique password during first-run setup |
+| CORS allowed origins | Restrict to your own domain(s); avoid `*` in production |
+| SMTP / email | Configure a real mail provider for auth emails |
+| Backups | Enable automated backups and store them off-site |
+
+The `pb_data/` directory contains the SQLite database and all uploaded files. Ensure it is stored on a persistent, access-controlled volume and is **not** exposed publicly.
+
+---
+
+
 
 This template is actively maintained by StackBlaze. We perform **weekly automated checks** to ensure:
 
