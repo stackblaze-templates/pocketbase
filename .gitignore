@@ -1,4 +1,7 @@
 .env
+.env.*
 *.log
 .DS_Store
 pb_data/
+*.pem
+*.key
